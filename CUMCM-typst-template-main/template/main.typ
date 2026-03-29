@@ -27,7 +27,7 @@
 
 #show outline: it => [
   #block(spacing: 2em)[
-    #set par(leading:4em)
+    #set par(leading: 4em)
     #it
   ]
 ]
@@ -41,8 +41,8 @@
 #pagebreak()
 
 = 作品概述
-
-== 
+111222
+==
 
 ===
 
